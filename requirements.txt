@@ -15,3 +15,19 @@ transformers==4.54.1
 torch==2.7.1
 lmstudio==1.4.1
 ipywidgets==8.1.7
+
+# Image processing dependencies
+opencv-python==4.12.0.88
+pillow==11.3.0
+matplotlib==3.10.5
+numpy==2.2.6
+diffusers==0.35.1
+accelerate==1.10.1
+safetensors==0.6.2
+segment-anything-py==1.0.1
+controlnet-aux==0.0.10
+realesrgan==0.3.0
+rembg==2.0.67
+onnxruntime==1.22.1
+ipycanvas==0.14.1
+gradio-client==1.12.1
