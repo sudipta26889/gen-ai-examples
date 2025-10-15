@@ -1,0 +1,5 @@
+langchain==1.0.0a14
+langchain-openai==1.0.0a4
+dotenv==0.9.9
+ddgs==9.6.1
+markdownify==1.2.0

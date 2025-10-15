@@ -210,3 +210,5 @@ credentials.json
 videos/*
 langchain-example/.venv/
 langchain-example/.env
+langchain-v1-examples/.venv/
+langchain-v1-examples/.env
